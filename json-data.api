@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken Biriyani",
+        "description": "A flavorful Indian dish made with spiced rice, tender chicken, and aromatic herbs and spices such as cardamom, cumin, and saffron.",
+        "imageUrl": "https://i.ibb.co/4ph2zpQ/Pngtree-chicken-dum-biryani-hydrabadi-baked-9037440.png",
+        "type": "Spicy",
+        "hostId": "123",
+        "process": [
+            "Wash the rice several times in cold water and soak it for 30 minutes.",
+            "Heat 1 tablespoon of ghee in a large pot and add the cumin seeds, coriander seeds, cinnamon stick, cloves, cardamom pods, and bay leaf. Fry for a minute or two, until fragrant.",
+            "Add the sliced onions to the pot and cook until they are soft and translucent.",
+            "Add the chicken pieces to the pot and cook for 5 - 7 minutes, until the chicken is browned.",
+            "Add the ginger-garlic paste, salt, and biryani masala to the pot and stir to combine.",
+            "Add the yogurt to the pot and mix well.",
+            "Cover the pot and let the chicken cook for 15 - 20 minutes, stirring occasionally.",
+            "While the chicken is cooking, bring a large pot of salted water to a boil.",
+            "Drain the soaked rice and add it to the pot.",
+            "Cook the rice for 5 - 7 minutes, until it is partially cooked.",
+            "Drain the rice and set it aside.",
+            "Dissolve the saffron strands in warm milk and set aside.",
+            "Preheat the oven to 350°F.",
+            "Layer the chicken and rice in a large oven-safe dish. Start with a layer of rice, then a layer of chicken, and repeat until all of the rice and chicken are used up.",
+            "Pour the saffron milk over the top of the rice and chicken.",
+            "Sprinkle the chopped cilantro leaves, mint leaves, and fried onions over the top of the rice.",
+            "Cover the dish tightly with foil and bake in the preheated oven for 20 - 25 minutes.",
+            "Remove the foil and bake for an additional 5 - 10 minutes, until the top of the rice is golden brown.",
+            "Remove from the oven and let the biryani rest for 5 - 10 minutes before serving."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Mutton Biriyani1",
+        "imageUrl": "https://i.ibb.co/4ph2zpQ/Pngtree-chicken-dum-biryani-hydrabadi-baked-9037440.png",
+        "type": "Spicy",
+        "description": "Its a delecious flovour to mouth watering",
+        "process": [
+            "Wash the rice several times in cold water and soak it for 30 minutes.",
+            "Heat 1 tablespoon of ghee in a large pot and add the cumin seeds, coriander seeds, cinnamon stick, cloves, cardamom pods, and bay leaf. Fry for a minute or two, until fragrant.",
+            "Add the sliced onions to the pot and cook until they are soft and translucent.",
+            "Add the chicken pieces to the pot and cook for 5 - 7 minutes, until the chicken is browned.",
+            "Add the ginger-garlic paste, salt, and biryani masala to the pot and stir to combine.",
+            "Add the yogurt to the pot and mix well.",
+            "Cover the pot and let the chicken cook for 15 - 20 minutes, stirring occasionally.",
+            "While the chicken is cooking, bring a large pot of salted water to a boil.",
+            "Drain the soaked rice and add it to the pot.",
+            "Cook the rice for 5 - 7 minutes, until it is partially cooked.",
+            "Drain the rice and set it aside.",
+            "Dissolve the saffron strands in warm milk and set aside.",
+            "Preheat the oven to 350°F.",
+            "Layer the chicken and rice in a large oven-safe dish. Start with a layer of rice, then a layer of chicken, and repeat until all of the rice and chicken are used up.",
+            "Pour the saffron milk over the top of the rice and chicken.",
+            "Sprinkle the chopped cilantro leaves, mint leaves, and fried onions over the top of the rice.",
+            "Cover the dish tightly with foil and bake in the preheated oven for 20 - 25 minutes.",
+            "Remove the foil and bake for an additional 5 - 10 minutes, until the top of the rice is golden brown.",
+            "Remove from the oven and let the biryani rest for 5 - 10 minutes before serving."
+        ]
+    }
+]
